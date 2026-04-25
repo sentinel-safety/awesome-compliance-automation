@@ -36,6 +36,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 - [Vanta GDPR Compliance Automation](https://www.vanta.com/products/gdpr) - A Vanta product module focused on GDPR compliance that helps organizations protect EU residents’ personal data, automate privacy controls, and demonstrate adherence to global privacy standards through continuous monitoring and evidence collection. ([Read more](/details/vanta-gdpr-compliance-automation.md)) `gdpr` `privacy`
 
+- [SENTINEL](https://github.com/sentinel-safety/SENTINEL) - Open-source behavioral intelligence platform for detecting child grooming on digital platforms, with GDPR Article 17 erasure handling, tamper-evident audit logs, and EU DSA/UK Online Safety Act compliance infrastructure. `gdpr` `privacy` `child-safety`
 ## Soc 2
 
 - [Vanta SOC 2 Compliance Automation](https://www.vanta.com/products/soc-2) - Cloud-based compliance automation and trust management product focused on SOC 2. Vanta automates evidence collection, helps scope SOC 2 reports, guides implementation of security controls, centralizes documentation, and connects organizations with auditors to streamline SOC 2 audits. ([Read more](/details/vanta-soc-2-compliance-automation.md)) `soc2` `automation`
